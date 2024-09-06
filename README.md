@@ -2,6 +2,8 @@
 ### Hi there 👋, I'm Shahbaz from India
 #### Website Development
 
+<a href="https://app.daily.dev/shahbaz7"><img src="https://api.daily.dev/devcards/v2/g2gB9vXOh9MXsB10ydU35.png?type=default&r=cqu" width="356" alt="Shahbaz Ahmad Siddiqui's Dev Card"/></a>
+
 <!--
 **shahbazaldiablo/shahbazaldiablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
