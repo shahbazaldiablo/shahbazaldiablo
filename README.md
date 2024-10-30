@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/shahbaz7"><img src="https://api.daily.dev/devcards/v2/g2gB9vXOh9MXsB10ydU35.png?type=default&r=ifk" width="356" alt="Shahbaz Ahmad Siddiqui's Dev Card"/></a>
-<a href="https://app.daily.dev/shahbaz7"><img src="./devcard.png" width="356" alt="Shahbaz Ahmad Siddiqui's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/shahbaz7"><img src="./devcard.png" width="356" alt="Shahbaz Ahmad Siddiqui's Dev Card"/></a>-->
 
 ### Hi there 👋, I'm Shahbaz from India
 #### Website Development
